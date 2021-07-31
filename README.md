@@ -4,19 +4,40 @@
  
  ---
  
-**Andela**, **Grow with Google** and **Pluralsight** have partnered to support software developers across Africa in three different tracks, **Associate Android Developer**, **Associate Cloud Engineer**, and **Mobile Web Specialist** in the Google Africa Developer Scholarship 2021.
+<h2 id="table-of-contents"> Table of Contents </h2
+1. [Introduction](https://github.com/GADS2021-Program/gads2021-learning-and-resources/blob/main/Program%20Information/introduction.md)
+1. [Code of Conduct](https://github.com/GADS2021-Program/gads2021-learning-and-resources/blob/main/Program%20Information/code-of-conduct.md)
+1. [Android Learning Plan](https://github.com/GADS2021-Program/gads2021-learning-and-resources/blob/main/Learning%20Plans/android-learning-plan)
+1. [Cloud Learning Plan](https://github.com/GADS2021-Program/gads2021-learning-and-resources/blob/main/Learning%20Plans/cloud-learning-plan)
+1. [MWS Learning Plan](https://github.com/GADS2021-Program/gads2021-learning-and-resources/blob/main/Learning%20Plans/mws-learning-plan.md)
+1. [Learning Resources](https://github.com/GADS2021-Program/gads2021-learning-and-resources/tree/main/Resource%20Inventory)
+1. [Discussions](https://github.com/GADS2021-Program/gads2021-learning-and-resources/discussions)
 
-As Andela, we will be supporting you through this journey by **communicating all important updates** and ensuring you are **supported** by us, our partners, and our mentors. We will be using this platform to communicate and support you through your GADS 2021 journey.
+---
 
-## **Other Resources**
- 
-- Join all the relevant channels ([Intro Channel](https://community.andela.com/c/intro), [Announcement Channel](https://community.andela.com/c/gad_general), [Ask GADS Team](https://community.andela.com/c/ask-gads-team), Ask Mentors Channel (Join your track specific channel)
-- You can find Pluralsight learning content [here](https://community.andela.com/c/start-here/gads-course-content), Code of Conduct [here](https://community.andela.com/c/start-here/gads-code-of-conduct), the Onboarding checklist [here](https://community.andela.com/c/start-here/gads-on-boarding-checklist), and Frequently Asked Questions [here](https://community.andela.com/c/start-here/gads-frequently-asked-questions).
+### How to get the repository
+1. You can get a copy of this repository by using `Fork`.
+2. Clone the repostory onto your local machine by running the following command:
 
-Below is a video walkthrough of what you should expect and the channels you need to join.
+`git clone git@github.com:GADS2021-Program/gads2021-learning-and-resources.git`
 
-<div text="center">
- 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/M9zJKyVbi4E/0.jpg)](https://www.youtube.com/watch?v=M9zJKyVbi4E)
+### How to use the repository
 
-</div>
+After you have `forked` or `cloned` the repository, there are two ways you can use it.
+
+#### Usage 1:
+
+You can either of the following boards:
+1. [Android Learning Plan Board](https://github.com/GADS2021-Program/gads2021-learning-and-resources/projects/3)
+1. [Cloud Learning Plan Board](https://github.com/GADS2021-Program/gads2021-learning-and-resources/projects/2)
+1. [MWS Learning Plan Board](https://github.com/GADS2021-Program/gads2021-learning-and-resources/projects/1)
+
+#### Usage 2:
+
+You can use the Learning Plan files created. Links are in the [Table of Contents](#table-of-contents) 
+
+### How to contribute
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+We have enabled the [discussions](https://github.com/GADS2021-Program/gads2021-learning-and-resources/discussions) platform to communicate with you.
