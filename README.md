@@ -4,7 +4,8 @@
  
  ---
  
-<h2 id="table-of-contents"> Table of Contents </h2
+<h2 id="table-of-contents"> Table of Contents </h2>
+
 1. [Introduction](https://github.com/GADS2021-Program/gads2021-learning-and-resources/blob/main/Program%20Information/introduction.md)
 1. [Code of Conduct](https://github.com/GADS2021-Program/gads2021-learning-and-resources/blob/main/Program%20Information/code-of-conduct.md)
 1. [Android Learning Plan](https://github.com/GADS2021-Program/gads2021-learning-and-resources/blob/main/Learning%20Plans/android-learning-plan)
