@@ -12,7 +12,8 @@
 1. [Cloud Learning Plan](https://github.com/GADS2021-Program/gads2021-learning-and-resources/blob/main/Learning%20Plans/cloud-learning-plan)
 1. [MWS Learning Plan](https://github.com/GADS2021-Program/gads2021-learning-and-resources/blob/main/Learning%20Plans/mws-learning-plan.md)
 1. [Learning Resources](https://github.com/GADS2021-Program/gads2021-learning-and-resources/tree/main/Resource%20Inventory)
-1. [Discussions](https://github.com/GADS2021-Program/gads2021-learning-and-resources/discussions)
+2. [Frequently Asked Questions](https://github.com/GADS2021-Program/gads2021-learning-and-resources/blob/main/Program%20Information/frequently-asked-questions.md)
+3. [Discussions](https://github.com/GADS2021-Program/gads2021-learning-and-resources/discussions)
 
 ---
 
@@ -20,7 +21,9 @@
 1. You can get a copy of this repository by using `Fork`.
 2. Clone the repostory onto your local machine by running the following command:
 
-`git clone git@github.com:GADS2021-Program/gads2021-learning-and-resources.git`
+```
+  git clone git@github.com:GADS2021-Program/gads2021-learning-and-resources.git
+```
 
 ### How to use the repository
 
