@@ -1,3 +1,7 @@
+<img width="100%" src="https://i.ibb.co/XW3CnWp/COC.png" />
+
+[Source: ALC Platform - GADS2021](https://community.andela.com/c/start-here/gads-code-of-conduct)
+
 # GADS Code of Conduct
 
 ## Introduction
