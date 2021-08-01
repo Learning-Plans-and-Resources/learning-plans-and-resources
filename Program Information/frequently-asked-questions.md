@@ -1,5 +1,7 @@
 <img width="100%" src="https://i.ibb.co/1XwgnjP/FAQ-1.png" />
 
+[Source: ALC Platform - GADS 2021](https://community.andela.com/c/start-here/gads-frequently-asked-questions)
+
 # GADS Frequently Asked Questions
 This is a collection of regularly and frequently asked questions and answers.
 
