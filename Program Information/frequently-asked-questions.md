@@ -1,3 +1,4 @@
+<img width="100%" src="https://i.ibb.co/1XwgnjP/FAQ-1.png" />
 
 # GADS Frequently Asked Questions
 This is a collection of regularly and frequently asked questions and answers.
