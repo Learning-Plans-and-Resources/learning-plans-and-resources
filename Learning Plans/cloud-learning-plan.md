@@ -1,7 +1,12 @@
 ![Imgur](https://i2.wp.com/urbancodex.com/wp-content/uploads/google-cloud-certified-associate-cloud-engineer.png?w=678&ssl=1)
 [SOURCE: Google Associate Cloud Engineer]
 
-<h1 align="center">Associate Cloud Engineer Learing Plan</h1>
+<h1 align="center">Associate Cloud Engineer Learning Plan</h1>
+
+## General Program Phases
+
+![gads](gads-program-timeline.png)
+
 
 ---
 
@@ -14,13 +19,12 @@ Phase 1 has courses that cover the fundamentals of Cloud Engineering up to the A
 **End date**: 15th of September 2021
 
 ### **Requirements**
-- Watch 10+ hours of content in the Cloud Foundations Channel
 
-**OR**
-
-- Score 100+ on your Skill IQ Test
+- 100+ on Associate Cloud Engineer Skill IQ assessment, OR
+- 10+ hrs of role-specific engagement
 
 ### **Channels**
+
 - [Learning Phase 1 - Foundations Channel](https://app.pluralsight.com/channels/details/af513717-286c-4c27-ab58-1095473a8760)
 - [Learning Phase 1 - Deep Dive Channel](https://app.pluralsight.com/channels/details/b3088443-765d-4da8-aaa0-65eb7d0ed53b)
 
@@ -36,7 +40,8 @@ Phase 1 has courses that cover the fundamentals of Cloud Engineering up to the A
   
 ### Beginner Courses
 
-These are fundamental courses for the Cloud Engineering Track. An introduction Googel Cloud Platform and Cloud Computing.
+These are fundamental courses for the Cloud Engineering Track. An introduction Google Cloud Platform and Cloud Computing.
+
 
 | --------------------------- Course Title ----------------------------- | Course Link                                  |
 | ---                                                                    | ---                                          |
@@ -54,13 +59,15 @@ These are building up courses to reinforce the fundamentals.
 | Essential GCP Infrastructure: Foundation                               | [link to course](https://app.pluralsight.com/library/courses/essential-google-cloud-infrastructure-foundation-1/table-of-contents) |
 | Essential Google Cloud Infrastructure: Core Services                   | [link to course](https://app.pluralsight.com/library/courses/essential-google-cloud-infrastructure-core-services-3/table-of-contents) |
 | Achitecting with Google Kubernetees Engine: Foundation (C1)            | [link to course](https://app.pluralsight.com/library/courses/architecting-google-kubernetes-engine-foundations-c1/table-of-contents) |
-| Preparing for the Associate Cloud Engineer Exsmination                 | [link to course](https://app.pluralsight.com/library/courses/preparing-associate-cloud-engineer-examination/table-of-contents)            |
+| Preparing for the Associate Cloud Engineer Examination                 | [link to course](https://app.pluralsight.com/library/courses/preparing-associate-cloud-engineer-examination/table-of-contents)            |
+
 
 ---
 
 ## Done? What to do next?
 
-The list of courses above is not an ehaustive one. However, these are the selected courses to help you get started. Continue learning. Explore the following paths and learn more: 
+The list of courses above is not an exhaustive one. However, these are the selected courses to help you get started. Continue learning. Explore the following paths and learn more: 
+
 
 | ---------------------------- Path Title ------------------------------ | Course Link                                  |
 | ---                                                                    | ---                                          |
