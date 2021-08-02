@@ -1,5 +1,5 @@
-![Imgur](https://i.imgur.com/4CdZs87.jpg)
-[SOURCE: Google MWS]
+![Imgur](https://i2.wp.com/urbancodex.com/wp-content/uploads/google-cloud-certified-associate-cloud-engineer.png?w=678&ssl=1)
+[SOURCE: Google Associate Cloud Engineer]
 
 <h1 align="center">Associate Cloud Engineer Learing Plan</h1>
 
