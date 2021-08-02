@@ -44,7 +44,7 @@ These are fundamental courses for the MWS Track. An introduction to HTML, CSS an
 | Styling Websites with CSS                                              | [link to course](https://app.pluralsight.com/library/courses/594f58dd-6427-480e-a057-22ad2fdc2ec9) |
 | JavaScript Getting Started                                             | [link to course](https://app.pluralsight.com/library/courses/804837c6-ac3c-4698-aebd-bc15f629e64e) |
 
-### Intermediate Coureses
+### Intermediate Courses
 
 These are building up courses to reinforce the fundamentals.
   
@@ -73,7 +73,7 @@ The list of courses above is not an ehaustive one. However, these are the select
 | Building Progressive Web Apps                                          | [link to path](https://app.pluralsight.com/paths/skills/building-progressive-web-applications) |
 
 
-**Please note**: *You are not bound to this learning plan. This is to help others who are having a hard time navigating their way through the beginneing phases of the program.*
+**Please note**: *You are not bound to this learning plan. This is to help others who are having a hard time navigating their way through the beginning phases of the program.*
 
 All the best with your learning. Happy coding 💻👍.
  

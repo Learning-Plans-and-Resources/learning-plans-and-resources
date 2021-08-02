@@ -7,6 +7,7 @@
 
 ![gads](gads-program-timeline.png)
 
+
 ---
 
 ## Phase 1
@@ -41,6 +42,7 @@ Phase 1 has courses that cover the fundamentals of Cloud Engineering up to the A
 
 These are fundamental courses for the Cloud Engineering Track. An introduction Google Cloud Platform and Cloud Computing.
 
+
 | --------------------------- Course Title ----------------------------- | Course Link                                  |
 | ---                                                                    | ---                                          |
 | Cloud Computing: The Big Picture                                       | [link to course](https://app.pluralsight.com/library/courses/cloud-computing-big-picture/table-of-contents) |
@@ -59,11 +61,13 @@ These are building up courses to reinforce the fundamentals.
 | Achitecting with Google Kubernetees Engine: Foundation (C1)            | [link to course](https://app.pluralsight.com/library/courses/architecting-google-kubernetes-engine-foundations-c1/table-of-contents) |
 | Preparing for the Associate Cloud Engineer Examination                 | [link to course](https://app.pluralsight.com/library/courses/preparing-associate-cloud-engineer-examination/table-of-contents)            |
 
+
 ---
 
 ## Done? What to do next?
 
 The list of courses above is not an exhaustive one. However, these are the selected courses to help you get started. Continue learning. Explore the following paths and learn more: 
+
 
 | ---------------------------- Path Title ------------------------------ | Course Link                                  |
 | ---                                                                    | ---                                          |
