@@ -44,7 +44,7 @@ These are fundamental courses for the Cloud Engineering Track. An introduction G
 | Google Cloud Platform Fundamentals                                                      | [link to course](https://app.pluralsight.com/library/courses/google-cloud-platform-fundamentals/table-of-contents) |
 | Fundamentals of Cloud Computing                                              | [link to course](https://app.pluralsight.com/library/courses/cloud-computing-fundamentals/table-of-contents) |
 
-### Intermediate Coureses
+### Intermediate Courses
 
 These are building up courses to reinforce the fundamentals.
   
@@ -69,7 +69,7 @@ The list of courses above is not an ehaustive one. However, these are the select
 | Architecting with Google Kubernetes Engine: Workloads (C3)                                          | [link to path](https://app.pluralsight.com/library/courses/architecting-google-kubernetes-engine-production-c3/table-of-contents) |
 
 
-**Please note**: *You are not bound to this learning plan. You can use the deep dive channel to navigate the courses. Use the deep dive channel to navigate the courses.*
+**Please note**: *You are not bound to this learning plan. You can use the deep dive channel to navigate the courses.*
 
 All the best with your learning. Happy coding 💻👍.
  
