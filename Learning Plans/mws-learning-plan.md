@@ -73,7 +73,7 @@ The list of courses above is not an ehaustive one. However, these are the select
 | Building Progressive Web Apps                                          | [link to path](https://app.pluralsight.com/paths/skills/building-progressive-web-applications) |
 
 
-**Please note**: *You are not bound to this learning plan. This is to help others who are having a hard time navigating their way through the beginneing phases of the program.*
+**Please note**: *You are not bound to this learning plan. This is to help others who are having a hard time navigating their way through the beginning phases of the program.*
 
 All the best with your learning. Happy coding 💻👍.
  
