@@ -14,7 +14,7 @@ Phase 1 has courses that cover the fundamentals of Cloud Engineering up to the A
 **End date**: 15th of September 2021
 
 ### **Requirements**
-- Watch 10+ hours of content in the Mobile Web Specialist Foundations Channel
+- Watch 10+ hours of content in the Cloud Foundations Channel
 
 **OR**
 
@@ -32,7 +32,7 @@ Phase 1 has courses that cover the fundamentals of Cloud Engineering up to the A
   
 | --------------------------- Course Title ----------------------------- | Course Link                                  |
 | ---                                                                    | ---                                          |
-| Cloud: Executive Briefing       | [link to course](https://app.pluralsight.com/library/courses/cloud-executive-briefing/table-of-contents) |
+| Cloud: Executive Briefing                                              | [link to course](https://app.pluralsight.com/library/courses/cloud-executive-briefing/table-of-contents) |
   
 ### Beginner Courses
 
@@ -40,9 +40,9 @@ These are fundamental courses for the Cloud Engineering Track. An introduction G
 
 | --------------------------- Course Title ----------------------------- | Course Link                                  |
 | ---                                                                    | ---                                          |
-| Cloud Computing: The Big Picture                                             | [link to course](https://app.pluralsight.com/library/courses/cloud-computing-big-picture/table-of-contents) |
-| Google Cloud Platform Fundamentals                                                      | [link to course](https://app.pluralsight.com/library/courses/google-cloud-platform-fundamentals/table-of-contents) |
-| Fundamentals of Cloud Computing                                              | [link to course](https://app.pluralsight.com/library/courses/cloud-computing-fundamentals/table-of-contents) |
+| Cloud Computing: The Big Picture                                       | [link to course](https://app.pluralsight.com/library/courses/cloud-computing-big-picture/table-of-contents) |
+| Google Cloud Platform Fundamentals                                     | [link to course](https://app.pluralsight.com/library/courses/google-cloud-platform-fundamentals/table-of-contents) |
+| Fundamentals of Cloud Computing                                        | [link to course](https://app.pluralsight.com/library/courses/cloud-computing-fundamentals/table-of-contents) |
 
 ### Intermediate Courses
 
@@ -50,11 +50,11 @@ These are building up courses to reinforce the fundamentals.
   
 | --------------------------- Course Title ----------------------------- | Course Link                                  |
 | ---                                                                    | ---                                          |
-| Google GCP Fundamentals - Core Infrastructure                                            | [link to course](https://app.pluralsight.com/library/courses/google-cloud-platform-fundamentals-core-infrastructure/table-of-contents) |
-| Essential GCP Infrastructure: Foundation                                          | [link to course](https://app.pluralsight.com/library/courses/essential-google-cloud-infrastructure-foundation-1/table-of-contents) |
-| Essential Google Cloud Infrastructure: Core Services                                         | [link to course](https://app.pluralsight.com/library/courses/essential-google-cloud-infrastructure-core-services-3/table-of-contents) |
-| Achitecting with Google Kubernetees Engine: Foundation (C1)                                  | [link to course](https://app.pluralsight.com/library/courses/architecting-google-kubernetes-engine-foundations-c1/table-of-contents) |
-| Preparing for the Associate Cloud Engineer Exsmination                                             | [link to course](https://app.pluralsight.com/library/courses/preparing-associate-cloud-engineer-examination/table-of-contents)            |
+| Google GCP Fundamentals - Core Infrastructure                          | [link to course](https://app.pluralsight.com/library/courses/google-cloud-platform-fundamentals-core-infrastructure/table-of-contents) |
+| Essential GCP Infrastructure: Foundation                               | [link to course](https://app.pluralsight.com/library/courses/essential-google-cloud-infrastructure-foundation-1/table-of-contents) |
+| Essential Google Cloud Infrastructure: Core Services                   | [link to course](https://app.pluralsight.com/library/courses/essential-google-cloud-infrastructure-core-services-3/table-of-contents) |
+| Achitecting with Google Kubernetees Engine: Foundation (C1)            | [link to course](https://app.pluralsight.com/library/courses/architecting-google-kubernetes-engine-foundations-c1/table-of-contents) |
+| Preparing for the Associate Cloud Engineer Exsmination                 | [link to course](https://app.pluralsight.com/library/courses/preparing-associate-cloud-engineer-examination/table-of-contents)            |
 
 ---
 
@@ -64,9 +64,9 @@ The list of courses above is not an ehaustive one. However, these are the select
 
 | ---------------------------- Path Title ------------------------------ | Course Link                                  |
 | ---                                                                    | ---                                          |
-| Elastic Google Cloud Infrastructure Scaling and Automation                              | [link to course](https://app.pluralsight.com/library/courses/elastic-google-cloud-infrastructure-scaling-automation-3/table-of-contents)|
-| Architecting with Google Kubernetes Engine: Workloads (C2)                                         | [link to path](https://app.pluralsight.com/library/courses/architecting-google-kubernetes-engine-workloads-c2/table-of-contents) |
-| Architecting with Google Kubernetes Engine: Workloads (C3)                                          | [link to path](https://app.pluralsight.com/library/courses/architecting-google-kubernetes-engine-production-c3/table-of-contents) |
+| Elastic Google Cloud Infrastructure Scaling and Automation             | [link to course](https://app.pluralsight.com/library/courses/elastic-google-cloud-infrastructure-scaling-automation-3/table-of-contents)|
+| Architecting with Google Kubernetes Engine: Workloads (C2)             | [link to path](https://app.pluralsight.com/library/courses/architecting-google-kubernetes-engine-workloads-c2/table-of-contents) |
+| Architecting with Google Kubernetes Engine: Workloads (C3)             | [link to path](https://app.pluralsight.com/library/courses/architecting-google-kubernetes-engine-production-c3/table-of-contents) |
 
 
 **Please note**: *You are not bound to this learning plan. You can use the deep dive channel to navigate the courses.*
