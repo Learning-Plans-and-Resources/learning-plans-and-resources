@@ -1,11 +1,12 @@
-![Imgur](https://i2.wp.com/urbancodex.com/wp-content/uploads/google-cloud-certified-associate-cloud-engineer.png?w=678&ssl=1)
+<img width="100%" src="https://i2.wp.com/urbancodex.com/wp-content/uploads/google-cloud-certified-associate-cloud-engineer.png?w=678&ssl=1" />
+
 [SOURCE: Google Associate Cloud Engineer]
 
 <h1 align="center">Associate Cloud Engineer Learning Plan</h1>
 
 ## General Program Phases
 
-![gads](gads-program-timeline.png)
+![gads](https://i.ibb.co/ryszRrB/gads-program-timeline.png)
 
 ---
 
