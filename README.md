@@ -6,14 +6,11 @@
  
 <h2 id="table-of-contents"> Table of Contents </h2>
 
-1. [Introduction](https://github.com/Learning-Plans-and-Resources/learning-plans-and-resources/blob/main/Program%20Information/introduction.md)
-1. [Code of Conduct](https://github.com/Learning-Plans-and-Resources/learning-plans-and-resources/blob/main/Program%20Information/code-of-conduct.md)
 1. [Android Learning Plan](https://github.com/Learning-Plans-and-Resources/learning-plans-and-resources/blob/main/Learning%20Plans/android-learning-plan)
 1. [Cloud Learning Plan](https://github.com/Learning-Plans-and-Resources/learning-plans-and-resources/blob/main/Learning%20Plans/cloud-learning-plan)
 1. [MWS Learning Plan](https://github.com/Learning-Plans-and-Resources/learning-plans-and-resources/blob/main/Learning%20Plans/mws-learning-plan.md)
 1. [Learning Resources](https://github.com/Learning-Plans-and-Resources/learning-plans-and-resources/tree/main/Resource%20Inventory)
-2. [Frequently Asked Questions](https://github.com/Learning-Plans-and-Resources/learning-plans-and-resources/blob/main/Program%20Information/frequently-asked-questions.md)
-3. [Discussions](https://github.com/Learning-Plans-and-Resources/learning-plans-and-resources/discussions)
+1. [Discussions](https://github.com/Learning-Plans-and-Resources/learning-plans-and-resources/discussions)
 
 ---
 
