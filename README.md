@@ -6,8 +6,8 @@
  
 <h2 id="table-of-contents"> Table of Contents </h2>
 
-1. [Android Learning Plan](https://github.com/Learning-Plans-and-Resources/learning-plans-and-resources/blob/main/Learning%20Plans/android-learning-plan)
-1. [Cloud Learning Plan](https://github.com/Learning-Plans-and-Resources/learning-plans-and-resources/blob/main/Learning%20Plans/cloud-learning-plan)
+1. [Android Learning Plan](https://github.com/Learning-Plans-and-Resources/learning-plans-and-resources/blob/main/Learning%20Plans/android-learning-plan.md)
+1. [Cloud Learning Plan](https://github.com/Learning-Plans-and-Resources/learning-plans-and-resources/blob/main/Learning%20Plans/cloud-learning-plan.md)
 1. [MWS Learning Plan](https://github.com/Learning-Plans-and-Resources/learning-plans-and-resources/blob/main/Learning%20Plans/mws-learning-plan.md)
 1. [Learning Resources](https://github.com/Learning-Plans-and-Resources/learning-plans-and-resources/tree/main/Resource%20Inventory)
 1. [Discussions](https://github.com/Learning-Plans-and-Resources/learning-plans-and-resources/discussions)
